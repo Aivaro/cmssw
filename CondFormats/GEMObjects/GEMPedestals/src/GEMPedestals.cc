@@ -12,8 +12,8 @@
 
 #include "CondFormats/DataRecord/interface/GEMPedestalsRcd.h"
 
-#include "CondFormats/GEMPedestals/interface/GEMPedestals.h"
-#include "CondFormats/GEMPedestals/interface/GEMPedestal.h"
+#include "CondFormats/GEMObjects/GEMPedestals/interface/GEMPedestals.h"
+#include "CondFormats/GEMObjects/GEMPedestals/interface/GEMPedestal.h"
 
 #include "DataFormats/FWLite/interface/IOVSyncValue.h"
 #include "FWCore/ParameterSet/interface/ParameterSet.h"

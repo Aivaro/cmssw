@@ -2,7 +2,7 @@
 #define GEMPedestals_h
 
 #include "CondFormats/Serialization/interface/Serializable.h"
-#include "CondFormats/GEMPedestals/interface/GEMPedestal.h"
+#include "CondFormats/GEMObjects/GEMPedestals/interface/GEMPedestal.h"
 #include <memory>
 
 
